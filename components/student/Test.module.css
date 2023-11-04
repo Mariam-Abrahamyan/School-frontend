@@ -1,0 +1,28 @@
+.question{
+    border: 1px solid black;
+    background: #3F51B5;
+    padding: 40px;
+    margin: 22px;
+    color: white;
+ }
+ .answer{
+    background:rgb(252, 235, 235)!important;
+    color:black;
+    padding: 20px;
+    margin:20px;
+    font-size:20px;
+    cursor: pointer;
+ }
+ .bg-success {
+   background: green!important;
+   color: white; /* You can change the text color as needed */
+ }
+ 
+ .bg-danger {
+   background: red!important;
+   color: white; /* You can change the text color as needed */
+ }
+ .answer:hover{
+    background:orange!important;
+ }
+ 
